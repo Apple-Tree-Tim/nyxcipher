@@ -251,7 +251,7 @@ const NyxVsPaal = () => {
               </nav>
             </div>
 
-            <div className="bg-[#070C10] bg-[url('../assets/images/bg_images/rightLighting.png')] bg-no-repeat bg-right-top min-h-[450px]">
+            <div className="bg-[#070C10] bg-[url('../assets/images/bg_images/tab.png')] bg-no-repeat bg-cover bg-center min-h-[450px]">
               <div className="p-[54px] gridLine font-[RobotoMono] flex items-center">
                 <div
                   id="vertical-tab-with-border-1"

@@ -4,7 +4,7 @@ import Button from "../common/buttons/clipButton";
 const JoinUs = () => {
   return (
     <div className="nyxBorderTop nyxContainer" id="joinus">
-      <div className="w-full nyxBorderX relative bg-[#070C10] bg-[url('../assets/images/bg_images/rightLighting.png')] bg-no-repeat bg-right-top">
+      <div className="w-full nyxBorderX relative bg-[#070C10] bg-[url('../assets/images/bg_images/joinus.png')] bg-no-repeat bg-center bg-cover">
         <div className="gridLine text-center xl:py-[200px] lg:py-[176px] md:py-[152px] sm:py-[128px] py-[128px] px-[6px]">
           <p className="bg-gradient-to-r from-[#5AB0FF] to-[#01FFC2] inline-block text-transparent bg-clip-text  font-medium md:mb-[16px] text-[16px] sm:text-[16px] md:text-[24px] font-[RobotoMono]">
             Join us
